@@ -12,6 +12,8 @@ UPDATE2: Pins 2 and 5 are mistakenly swapped on this board.  A new board will be
 # Schematic
 ![Schematic](https://github.com/MrKohESP/piday25/blob/9f478729204b799b942757d8fb7b606811b21294/Screenshot%202025-03-11%20141103.png)
 
+# Bill of Materials (BOM)
+
 | No. | Quantity | Comment                | Designator                                     | Footprint                                | Value | Manufacturer Part      | Manufacturer         | Supplier Part | Supplier | Primary Category                  | Secondary Category                                         | Pin Count | JLCPCB Stock | JLCPCB Price | Subtotal |
 |-----|----------|------------------------|------------------------------------------------|------------------------------------------|-------|------------------------|----------------------|---------------|----------|-----------------------------------|------------------------------------------------------------|-----------|--------------|--------------|----------|
 | 1   | 2        | TS1201-TZ25HAM         | BOOT,RUN                                       | KEY-SMD_L3.9-W3.0-LS5.0_1                |       | TS1201-TZ25HAM         | BXCONN(宝讯)           | C36936654     | LCSC     | Switches                          | Tactile Switches                                           | 2         | 14468        | 0.0243       | 0.0486   |
