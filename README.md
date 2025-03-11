@@ -7,3 +7,6 @@ There is also connectivity and space for an addressable RGB LED on GPIO08, it wa
 
 # Warning
 UPDATE: PLease do not make this board.  There is currently an issue where it will not load programs.  It does present as a USB drive but when files are copied to it, it restarts and comes back in BOOT mode.
+UPDATE2: Pins 2 and 5 are mistakenly swapped on this board.  A new board will be coming soon.  In the mean time we will try to fix this error with some tiny wire and see if it is the only mistake.
+
+#Schematic
