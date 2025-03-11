@@ -7,9 +7,9 @@ There is also connectivity and space for an addressable RGB LED on GPIO08, it wa
 
 # Warning
 
-<span style="color:red">UPDATE: PLease do not make this board.  There is currently an issue where it will not load programs.  It does present as a USB drive but when files are copied to it, it restarts and comes back in BOOT mode.</span>
+$${\color{red} UPDATE: PLease do not make this board.  There is currently an issue where it will not load programs.  It does present as a USB drive but when files are copied to it, it restarts and comes back in BOOT mode.
 
-UPDATE2: Pins 2 and 5 are mistakenly swapped on the Flash RAM on this board.  It makes sense that we could not upload any programs. A new board will be coming soon (hopefully with an RGB LED too).  I think too that we should use GPIO25 for the LED so that blinky is compatible with Pico 2 blinky(s).  In the mean time we will try to fix this error with some tiny wire and see if it is the only mistake.
+UPDATE2: Pins 2 and 5 are mistakenly swapped on the Flash RAM on this board.  It makes sense that we could not upload any programs. A new board will be coming soon (hopefully with an RGB LED too).  I think too that we should use GPIO25 for the LED so that blinky is compatible with Pico 2 blinky(s).  In the mean time we will try to fix this error with some tiny wire and see if it is the only mistake. }$$
 
 # Schematic
 ![Schematic](https://github.com/MrKohESP/piday25/blob/9f478729204b799b942757d8fb7b606811b21294/Screenshot%202025-03-11%20141103.png)
