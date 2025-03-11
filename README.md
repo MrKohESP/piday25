@@ -47,6 +47,9 @@ Full size PDF is available here: https://github.com/MrKohESP/piday25/blob/441c7a
 | 25  | 1        | KT-0603W               | USR                                            | LED0603-R-RD                             | KT-0603W               | KENTO                | C2290         |
 | 26  | 1        | ABM8-272-T3            | Y1                                             | CRYSTAL-SMD_4P-L3.2-W2.5-BL              | ABM8-272-T3            | ABRACON              | C20625731     |
 
+>[!CAUTION]
+>Item 19 above could not be assembled with the economy pcb and was cost prohibitive.
+
 Full size BOM in xslx format: https://github.com/MrKohESP/piday25/blob/441c7a7571a44883a6261e9f15735d09b5271e8f/Hardware/BOM_Board1_Schematic1_2025-03-02.xlsx 
 
 # PCB component side
