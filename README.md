@@ -24,7 +24,7 @@ Full size PDF is available here: https://github.com/MrKohESP/piday25/blob/441c7a
 | 2   | 2        | 10uF                   | C1,C2                                          | C0402                                    | CL05A106MQ5NUNC        | SAMSUNG(三星)          | C15525        |
 | 3   | 2        | 4.7uF                  | C3,C4                                          | C0603                                    | CL10A475KO8NNNC        | SAMSUNG(三星)          | C19666        |
 | 4   | 2        | 15pF                   | C6,C7                                          | C0402                                    | 0402CG150J500NT        | FH(风华)               | C1548         |
-| 5   | 12       | 100nF                  | C8,C11,C12,C13,C14,C15,C16,C17,C18,C19,C21,C23 | C0402                                    | CL05B104KO5NNNC        | SAMSUNG(三星)          | C1525         |
+| 5   | 12       | 100nF                  | All Others | C0402                                    | CL05B104KO5NNNC        | SAMSUNG(三星)          | C1525         |
 | 6   | 2        | 4.7uF                  | C9,C10                                         | C0402                                    | CL05A475MP5NRNC        | SAMSUNG(三星)          | C23733        |
 | 7   | 3        | DF2B7AFS,L3M           | D1,D2,D4                                       | SOD-923_L0.8-W0.6-LS1.0-BI               | DF2B7AFS,L3M           | TOSHIBA(东芝)          | C1972965      |
 | 8   | 2        | X6511WV-26H-C60D30     | H1,H2                                          | HDR-TH_26P-P2.54-V-M                     | X6511WV-26H-C60D30     | XKB Connection(中国星坤) | C725958       |
