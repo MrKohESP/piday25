@@ -11,6 +11,7 @@ UPDATE2: Pins 2 and 5 are mistakenly swapped on this board.  A new board will be
 
 # Schematic
 ![Schematic](https://github.com/MrKohESP/piday25/blob/9f478729204b799b942757d8fb7b606811b21294/Screenshot%202025-03-11%20141103.png)
+Full size PDF is available here: https://github.com/MrKohESP/piday25/blob/441c7a7571a44883a6261e9f15735d09b5271e8f/Hardware/SCH_Schematic1_2025-03-02.pdf
 
 # Bill of Materials (BOM)
 
@@ -44,3 +45,10 @@ UPDATE2: Pins 2 and 5 are mistakenly swapped on this board.  A new board will be
 | 26      | 1            | ABM8-272-T3            | Y1                                             | CRYSTAL-SMD_4P-L3.2-W2.5-BL              |           | ABM8-272-T3            | ABRACON              | C20625731         | Crystals, Oscillators, Resonators | 4             |
 |         |              |                        |                                                |                                          |           |                        |                      |                   |                                   |               |
 |         |              |                        |                                                |                                          |           |                        |                      |                   |                                   |               |
+Full size BOM in xslx format: https://github.com/MrKohESP/piday25/blob/441c7a7571a44883a6261e9f15735d09b5271e8f/Hardware/BOM_Board1_Schematic1_2025-03-02.xlsx 
+
+# PCB component side
+![PCBF](https://github.com/MrKohESP/piday25/blob/441c7a7571a44883a6261e9f15735d09b5271e8f/Hardware/2D_PCB1_2025-03-02%20(1).png)
+
+# PCB back side
+![PCBB](https://github.com/MrKohESP/piday25/blob/441c7a7571a44883a6261e9f15735d09b5271e8f/Hardware/2D_PCB1_2025-03-02.png)
